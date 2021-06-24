@@ -13,11 +13,13 @@ Outline:
     - Reallocate Scheduled Payments: Reallocate funds from one or more unpaid Scheduled Payments to one or more other Scheduled Payments (useful to collect missed payments on subsequent Scheduled Payments
     - Change Payment Methods: Adjust the Payment Method for one or more unprocessed Scheduled Payments
     - DD Retry Payment: Retry one or more qualifying Direct Debit Scheduled Payments
+    - Clean Up SPLs: As aparet of the reallocate functionlaity some "duplicate" Scheduled Payment Lines are created, this process comibines "duplicates" to keep the data efficient
 
 Installation:
 1) Ensure all pre-requisites are met
 2) Install the contents of this Repo
-3) Add a new button to the Page Layout for Sales Order - to launch the Master flow
-4) On  a Sales Order that has one or more Scheduled Payments click the Button
-5) Explore and test the functions provided
-6) If specific business logic is required for the client, adjust or add new sub-flows as required
+3) Ensure the 6 Flows have been activated
+4) Add a new button to the Page Layout for Sales Order - to launch the Master flow
+5) On  a Sales Order that has one or more Scheduled Payments click the Button
+6) Explore and test the functions provided
+7) If specific business logic is required for the client, adjust or add new sub-flows as required
