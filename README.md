@@ -23,3 +23,6 @@ Installation:
 5) On  a Sales Order that has one or more Scheduled Payments click the Button
 6) Explore and test the functions provided
 7) If specific business logic is required for the client, adjust or add new sub-flows as required
+
+Documentation:
+https://docs.google.com/document/d/1KWQ6ukMxAHGnbKWJqCGHghKD3pCLOpXX7XAUQ5Ab9Ks/edit?usp=sharing
