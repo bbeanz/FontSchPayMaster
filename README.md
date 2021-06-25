@@ -26,3 +26,4 @@ Installation:
 
 Documentation:
 https://docs.google.com/document/d/1KWQ6ukMxAHGnbKWJqCGHghKD3pCLOpXX7XAUQ5Ab9Ks/edit?usp=sharing
+(Screenshots can be found in the above document)
